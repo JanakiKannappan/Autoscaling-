@@ -46,4 +46,4 @@ resource "aws_autoscaling_group" "demo-asg" {
   vpc_zone_identifier = ["subnet-0594982aa9652633a", "subnet-009a55e385d7da63b"]
 
 }
-//
+
